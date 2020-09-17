@@ -1,0 +1,11 @@
+# config file
+
+# an image path or a folder path which contain same images
+img_path: D:\temp\sr\61x.bmp
+
+# a previously saved variables path
+#model_path: D:\Pycharm_Projects\deeps_server_inference_package\datas\model\sr\model_68900
+model_path: D:\Pycharm_Projects\deeps_server_inference_package\datas\model\os\model_20700
+
+# is a 'sr' task or 'os' task
+sr_or_os: os
