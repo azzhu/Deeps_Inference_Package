@@ -4,3 +4,5 @@ datas
 dist
 __pycache__/
 .idea
+*.pptx
+docs.txt
