@@ -1,5 +1,5 @@
 # Deeps Server Inference Package
-A released inference package of deeps server. use this package you can process your datas in you loacal computer easily.
+A released inference package of [deeps server](http://deeps.cibr.ac.cn/). use this package you can process your datas in you loacal computer easily.
 ![avatar](imgs/img.bmp)
 
 ## Instructions
