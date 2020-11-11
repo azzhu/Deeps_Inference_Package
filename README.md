@@ -2,16 +2,16 @@
 A released inference package of [deeps server](http://deeps.cibr.ac.cn/), which easily processes your data in local computer.
 ![avatar](imgs/img.jpg)
 
-## Instruction
+## Documentation
 
-### Download Files
+### Download
 Three files are available, you can download files from [here](http://119.90.33.35:3557/sharing/wJWmfODpQ):
     
 - **Executable file**: main.exe;
 - **Config file**: config.yaml;
 - **Pre-trained model file**: model/.
 
-### Config
+### Configuration
 Modify the config file: ```config.yaml```.
 
 - **img_path**: The path of an image(ONLY ONE), or the folder path of lots of images;
@@ -27,7 +27,7 @@ conversely, you should select ```os```. But it's important to note that paramete
 ### Run
 Double-click ```main.exe``` to run, a cmd window will pop up, and then the output text will print during the executive process.
 
-**Useful Links** 
+## Useful Links
 
 💜 Deeps homepage: http://deeps.cibr.ac.cn/
 
