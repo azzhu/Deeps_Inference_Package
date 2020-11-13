@@ -27,6 +27,17 @@ conversely, you should select ```os```. But it's important to note that paramete
 ### Run
 Double-click ```main.exe``` to run, a cmd window will pop up, and then the output text will print during the executive process.
 
+## Model Zoo
+
+* Super Resolution
+    
+    DeepS: [download](http://119.90.33.35:3557/sharing/IK0i5v6K0)
+    
+    JustUnet: [download](http://119.90.33.35:3557/sharing/p8tFZhzeD)
+
+* Optical Section
+
+    Deeps: [download](http://119.90.33.35:3557/sharing/cD7odmZI5)
 
 ## Useful Links
 
