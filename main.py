@@ -124,12 +124,13 @@ try:
 
     if __name__ == '__main__':
         inference()
-        os.system('pause')
 
 
 except Exception as e:
     print(e)
     traceback.print_exc()
+
+finally:
     os.system('pause')
 
 '''
